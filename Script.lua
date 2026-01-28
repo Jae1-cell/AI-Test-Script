@@ -7,7 +7,7 @@ wait(2)
 
 -- Configuration
 local CONFIG = {
-    HeadScale = 3.0,              -- How much bigger the head is
+    HeadScale = 6.0,              -- How much bigger the head is
     Transparency = 0.6,           -- Head transparency (0-1)
     ESPEnabled = true,            -- Enable ESP boxes
     ESPColor = Color3.fromRGB(255, 50, 255), -- ESP color
